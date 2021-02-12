@@ -35,9 +35,6 @@
     "uglify-js": "^3.6.0",
     "watchify": "^4.0.0"
   },
-  "engines": {
-    "node": ">=8.11.3 <16.0.0"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/ain/smartbanner.js.git"
